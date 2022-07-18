@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihebmeftah&label=Profile%20views&color=0e75b6&style=flat" alt="ihebmeftah" /> </p>
 
-- 👨‍💻 All of my projects are available at [ihebportfolio.web.app](ihebportfolio.web.app)
-
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **ihebmeftah666@gmail.com**
 
-- 📄 Know about my experiences [ihebportfolio.web.app](ihebportfolio.web.app)
+- 📄 Know about my experiences [https://github.com/ihebmeftah](ihebportfolio.web.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihebmeftah&show_icons=true&locale=en&layout=compact" alt="ihebmeftah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihebmeftah&show_icons=true&locale=en" alt="ihebmeftah" /></p>
+
