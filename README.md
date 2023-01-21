@@ -82,7 +82,7 @@
 
 
 ## Spotify Listening  
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=x8tgqh1zfrcvj69j19rucv67i&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false" align="center" style="width: 100%" />  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=x8tgqh1zfrcvj69j19rucv67i&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false" /></div>  
 
 <br/>  
 
