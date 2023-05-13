@@ -64,7 +64,7 @@ Flutter Developer and a graduated student at the Higher Institute of Computer Sc
 ## Spotify Listening  
 <table><tr><td valign="top" width="33%">
 
-![Listening to on Spotify]([[https://spotify-github-profile.vercel.app/api/view.svg?uid=x8tgqh1zfrcvj69j19rucv67i&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=x8tgqh1zfrcvj69j19rucv67i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=x8tgqh1zfrcvj69j19rucv67i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
 
 </td><td valign="top" width="33%">
 
