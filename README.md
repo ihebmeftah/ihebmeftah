@@ -1,3 +1,5 @@
+[![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -24,7 +26,6 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ihebmeftah.ihebmeftah&"  />
-  [![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
 </div>
 
 ###
