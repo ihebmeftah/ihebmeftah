@@ -16,7 +16,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="30" alt="dart logo"  />
   <img width="12" />
-  <img src="https://serverpod.dev/assets/img/favicon/favicon.ico" height="30" alt="dart logo"  />
+  <img src="https://serverpod.dev/assets/img/og.png" height="30" alt="dart logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30" alt="firebase logo"  />
   <img width="12" />
