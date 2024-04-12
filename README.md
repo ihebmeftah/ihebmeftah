@@ -42,9 +42,7 @@
 <br clear="both">
 
 <img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hwZXI3ZWJxMWxmcm16NWZnZ3k4aWsyN2R5OXpocjlwczJra2FveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E89xxATM4iZoPdr6Tb/giphy.gif"  />
-
-###
-
+<img width="12" />
 <h4 align="left">I enjoy exploring new frameworks and tools that enhance the development process and improve the overall user experience. As technology continues to evolve, I am keen on expanding my skill set and delving into other emerging technologies.</h4>
 
 ###
