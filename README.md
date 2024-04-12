@@ -16,7 +16,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="30" alt="dart logo"  />
   <img width="12" />
-  <img src="[https://serverpod.dev/assets/img/og.png](https://res.cloudinary.com/practicaldev/image/fetch/s--O4q1DAoS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://cdn.hashnode.com/res/hashnode/image/upload/v1704497581829/0b956f77-0c42-49ec-933d-16d017b82f6f.png)" height="30" alt="dart logo"  />
+  <img src="https://pbs.twimg.com/media/GJA_KGUWwAArJw8?format=jpg&name=large" height="30" alt="dart logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30" alt="firebase logo"  />
   <img width="12" />
